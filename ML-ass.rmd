@@ -1,6 +1,6 @@
 ---
 title: "ML assignment"
-author: "logith"
+author: "sathish.m"
 date: '2024-08-06'
 output: html_document
 ---
